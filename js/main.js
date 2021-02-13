@@ -2,6 +2,10 @@
 function welCome() {
   alert('Welcome to about me page ');
 }
+function helloBlade(){
+  alert('hello');
+}
+helloBlade();
 welCome();
 let userName=prompt('enter your name');
 alert('hello '+ userName+','+ 'my name is Ayman');
@@ -110,5 +114,7 @@ for(t=6;t>-1;t--){
 }
 
 alert('you got '+ score+' point out of 7');
+alert('thanks for visiting my website');
+alert('hope you visited us one more time');
 
 
